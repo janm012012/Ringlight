@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\Jan\arbeit\Lichtsteuerungen\CHMT36VA_Conversion2OpenPnP\Ringlight\Project Outputs for Ringlight\Pick Place\Pick Place for Ringlight_Panel.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/02/22
+Time:       11:42
+Revision:   8160
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Rotation","Description","Ref-X(mm)","Ref-Y(mm)"
+"Ref3","Comment","TopLayer","Fiducial","0","","3.0000","37.0000"
+"Ref2","Comment","TopLayer","Fiducial","0","","37.0000","3.0000"
+"Ref1","Comment","TopLayer","Fiducial","0","","3.0000","3.0000"
+"J2","CON1","TopLayer","POWEPAD","22.5","flachstecker/print","24.4391","9.2830"
+"R1","56R","TopLayer","0603R","157.499992371","","15.5609","9.2830"
+"R2","56R","TopLayer","0603R","157.5","","24.4391","30.7170"
+"J1","CON1","TopLayer","POWEPAD","67.5","flachstecker/print","30.7170","15.5609"
+"D4","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","134.979335785","","28.2024","28.2024"
+"D3","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","224.979324341","","11.7976","28.2024"
+"D2","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","314.943710327","","11.7976","11.7976"
+"D8","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","180","","20.0000","8.3000"
+"D7","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","90","","8.4000","20.0000"
+"D6","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","0","","20.0000","31.6000"
+"D5","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","270","","31.6000","20.0000"
+"D1","KW DCLMS2.EC-CXCZ-4H7I-1","TopLayer","E3014","45","","28.2024","11.7976"
